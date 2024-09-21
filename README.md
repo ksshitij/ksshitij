@@ -1,4 +1,4 @@
-![Masterhead]([https://coding.blog/img/update-social-banner.png](https://cdn.prod.website-files.com/659f77ad8e06050cc27ed531/65ef63f6bd30ab838939a4ae_Developer%20productivity%20tools%202024.webp))
+![Masterhead]([https://coding.blog/img/update-social-banner.png])
 <h1 align="center">Hi 👋, I'm Kshitij Patidar</h1>
 <h3 align="center">Exploring the World of Software Development</h3>
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kshitij patidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitij patidar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kshitij-patidar-969a8322b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitij patidar" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_kshitiijjj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_kshitiijjj/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@kshitijpatidar21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kshitijpatidar21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kshitijpatidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kshitijpatidar" height="30" width="40" /></a>
