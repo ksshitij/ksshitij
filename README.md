@@ -1,3 +1,4 @@
+![Masterhead]([https://coding.blog/img/update-social-banner.png](https://cdn.prod.website-files.com/659f77ad8e06050cc27ed531/65ef63f6bd30ab838939a4ae_Developer%20productivity%20tools%202024.webp))
 <h1 align="center">Hi 👋, I'm Kshitij Patidar</h1>
 <h3 align="center">Exploring the World of Software Development</h3>
 
@@ -18,6 +19,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QDA7t0lvfWG0PRSma71lgo7HmDANtDq5/view](https://drive.google.com/file/d/1QDA7t0lvfWG0PRSma71lgo7HmDANtDq5/view)
 
 - ⚡ Fun fact **I can write code faster than my coffee cools down!**
+- <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
