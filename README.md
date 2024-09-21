@@ -1,4 +1,4 @@
-![Masterhead]([https://coding.blog/img/update-social-banner.png])
+![Masterhead](https://cdn-employer-wp.arc.dev/wp-content/uploads/2022/04/software-development-costs-1128x635.jpg)
 <h1 align="center">Hi 👋, I'm Kshitij Patidar</h1>
 <h3 align="center">Exploring the World of Software Development</h3>
 
